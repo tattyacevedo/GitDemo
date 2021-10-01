@@ -6,5 +6,14 @@ public class GitDemo {
 		
 		System.out.println("Demo");
 		
+		boolean isSunday = true;
+		
+		if (isSunday) {
+			System.out.println ("abc");
+		}else {
+			System.out.println ("Xys");
+			
+			
+		}
 	}
 }
